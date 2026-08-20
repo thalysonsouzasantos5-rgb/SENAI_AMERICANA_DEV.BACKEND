@@ -1,0 +1,15 @@
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\bin\Debug\net10.0\Terreno.exe
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\bin\Debug\net10.0\Terreno.deps.json
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\bin\Debug\net10.0\Terreno.runtimeconfig.json
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\bin\Debug\net10.0\Terreno.dll
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\bin\Debug\net10.0\Terreno.pdb
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.AssemblyInfoInputs.cache
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.AssemblyInfo.cs
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.csproj.CoreCompileInputs.cache
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.sourcelink.json
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.dll
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\refint\Terreno.dll
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.pdb
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\Terreno.genruntimeconfig.cache
+C:\Users\thaly\OneDrive\Documentos\GitHub\SENAI_AMERICANA_DEV.BACKEND\Lógica de Programação e Algoritimos\Terreno\Terreno\obj\Debug\net10.0\ref\Terreno.dll
